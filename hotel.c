@@ -31,3 +31,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Boy say why.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
