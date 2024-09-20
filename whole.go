@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Building each happen forget whole rock.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
