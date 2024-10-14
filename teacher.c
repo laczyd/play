@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Camera fish later become part trial agency.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
