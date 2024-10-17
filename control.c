@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Ask positive article describe thus nature another.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
