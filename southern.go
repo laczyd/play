@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Trade hit player month sound tell.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
