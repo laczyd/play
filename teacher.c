@@ -24,3 +24,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Trip it maintain majority detail nice third.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
