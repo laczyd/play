@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# System option leader impact first.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
