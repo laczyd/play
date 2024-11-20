@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Attorney last day war contain name.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
