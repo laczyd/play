@@ -24,3 +24,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Let college watch body fall rich glass ok.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
