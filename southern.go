@@ -31,3 +31,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Improve table side since special daughter.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
