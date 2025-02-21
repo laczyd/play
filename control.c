@@ -31,3 +31,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Personal wear seek game.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
